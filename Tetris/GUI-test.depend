@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1536582070 source:d:\ccode\gui-test\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	"tetris.h"
+
+1536582471 d:\ccode\gui-test\tetris.h
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<time.h>
+	<mmsystem.h>
+
+1536654293 source:d:\ccode\gui-test\tetris.cpp
+	"tetris.h"
+
+1535970841 d:\ccode\gui-test\tool.h
+	<stdio.h>
+	<stdlib.h>
+	"tetris.h"
+
+1535970686 source:d:\ccode\gui-test\tool.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	"tool.h"
+
+1536582070 source:d:\ccode\tetris\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	"tetris.h"
+
+1536655517 d:\ccode\tetris\tetris.h
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<time.h>
+	<mmsystem.h>
+
+1536654483 source:d:\ccode\tetris\tetris.cpp
+	"tetris.h"
+
